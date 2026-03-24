@@ -3,16 +3,7 @@ import hero from '../../assets/image/hero.png'
 
 const Banner = () => {
   return (
-    <div className="relative min-h-screen flex items-center justify-center bg-[#f4f6f8] overflow-hidden">
-      
-      {/* Background texture */}
-      {/* <div className="absolute inset-0">
-        <img
-          src="/bg.png" // 👉 your background image
-          alt="bg"
-          className="w-full h-full object-cover opacity-50"
-        />
-      </div> */}
+    <div className="relative pt-10 flex items-center justify-center bg-[#f4f6f8] overflow-hidden">
 
       {/* Content */}
       <div className="relative z-10 text-center px-4">
@@ -64,7 +55,7 @@ const Banner = () => {
         </div>
 
         {/* 🔥 Single Image (Phone + Icons together) */}
-        <div className="flex justify-center">
+        <div className="flex justify-center ">
           <img
             src={hero} // 👉 your combined image
             alt="app preview"
