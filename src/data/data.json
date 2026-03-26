@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app(1).webp",
     "title": "Chatly",
     "companyName": "TechSoft Ltd",
     "description": "A fast and secure messaging app.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app(2).webp",
     "title": "Foodies",
     "companyName": "YumYum Inc",
     "description": "Order food from your favorite restaurants.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app(3).webp",
     "title": "FitTrack",
     "companyName": "HealthCorp",
     "description": "Track your fitness and workouts.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app(4).webp",
     "title": "EduLearn",
     "companyName": "Learnify",
     "description": "Online courses and tutorials.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app(5).webp",
     "title": "TravelGo",
     "companyName": "TripWorld",
     "description": "Plan your trips easily.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app(6).webp",
     "title": "PhotoPro",
     "companyName": "PixelLab",
     "description": "Edit photos like a pro.",
