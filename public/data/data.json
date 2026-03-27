@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/assets/demo-app(1).webp",
+    "image": "/assets/demo-app-1.webp",
     "title": "Chatly",
     "companyName": "TechSoft Ltd",
     "description": "A fast and secure messaging app.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "/assets/demo-app(2).webp",
+    "image": "/assets/demo-app (2).webp",
     "title": "Foodies",
     "companyName": "YumYum Inc",
     "description": "Order food from your favorite restaurants.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "/assets/demo-app(3).webp",
+    "image": "/assets/demo-app (3).webp",
     "title": "FitTrack",
     "companyName": "HealthCorp",
     "description": "Track your fitness and workouts.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "/assets/demo-app(4).webp",
+    "image": "/assets/demo-app (4).webp",
     "title": "EduLearn",
     "companyName": "Learnify",
     "description": "Online courses and tutorials.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "/assets/demo-app(5).webp",
+    "image": "/assets/demo-app (5).webp",
     "title": "TravelGo",
     "companyName": "TripWorld",
     "description": "Plan your trips easily.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "/assets/demo-app(6).webp",
+    "image": "/assets/demo-app (6).webp",
     "title": "PhotoPro",
     "companyName": "PixelLab",
     "description": "Edit photos like a pro.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app (2).webp",
     "title": "MusicFlow",
     "companyName": "SoundWave",
     "description": "Stream your favorite music.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "https://via.placeholder.com/150",
+     "image": "/assets/demo-app-1.webp",
     "title": "NoteMaster",
     "companyName": "Productive Co",
     "description": "Take notes and stay organized.",
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "image": "https://via.placeholder.com/150",
+     "image": "/assets/demo-app (5).webp",
     "title": "GameZone",
     "companyName": "PlayHub",
     "description": "Play exciting games anytime.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "image": "https://via.placeholder.com/150",
+    "image": "/assets/demo-app (4).webp",
     "title": "ShopEasy",
     "companyName": "BuyNow Ltd",
     "description": "Online shopping made easy.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "image": "https://via.placeholder.com/150",
+     "image": "/assets/demo-app (6).webp",
     "title": "WeatherNow",
     "companyName": "ClimateTech",
     "description": "Real-time weather updates.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "image": "https://via.placeholder.com/150",
+      "image": "/assets/demo-app (5).webp",
     "title": "SecureVault",
     "companyName": "SafeTech",
     "description": "Keep your data secure.",
