@@ -1,6 +1,8 @@
-const AppCard = ({ app, handleAddToCart }) => {
+import { Link } from "react-router";
+
+const AppCard = ({ app }) => {
   return (
-    <div className="bg-white p-4 rounded-xl shadow-sm border hover:shadow-md transition">
+    <Link to={`/apps/${app.id}`} className="bg-white p-4 rounded-xl shadow-sm border hover:shadow-md transition">
       
       {/* Image */}
       <img
@@ -29,14 +31,8 @@ const AppCard = ({ app, handleAddToCart }) => {
         </span>
       </div>
 
-      {/* Button */}
-      <button
-        onClick={() => handleAddToCart(app)}
-        className="w-full mt-3 bg-blue-500 text-white py-1 rounded hover:bg-blue-600"
-      >
-        Add to Cart
-      </button>
-    </div>
+      
+    </Link>
   );
 };
 

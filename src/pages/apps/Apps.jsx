@@ -5,17 +5,14 @@ import AppCard from "../../components/apps/AppCard";
 const Apps = () => {
   const [apps, setApps] = useState([]);
   const [search, setSearch] = useState("");
-  const [cart, setCart] = useState([]);
-console.log(apps)
+
   useEffect(() => {
     fetch("/data/data.json")
       .then((res) => res.json())
       .then((data) => setApps(data));
   }, []);
 
-  const handleAddToCart = (app) => {
-    setCart([...cart, app]);
-  };
+
 
   const filteredApps = apps.filter((app) =>
     app.title.toLowerCase().includes(search.toLowerCase())
@@ -54,7 +51,6 @@ console.log(apps)
             <AppCard
               key={app.id}
               app={app}
-              handleAddToCart={handleAddToCart}
             />
           ))}
         </div>
